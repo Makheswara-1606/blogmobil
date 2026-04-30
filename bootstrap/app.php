@@ -21,6 +21,6 @@ return Application::configure(basePath: dirname(__DIR__))
             'user_only' => UserOnly::class,
         ]);
     })
-    ->withExceptions(function (Exceptions $exceptions) {
+    ->withExceptions(function (Exceptions $exceptions) {  
         //
     })->create();
