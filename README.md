@@ -12,20 +12,21 @@ Website ini menjadi wadah berbagi informasi terbaru, tips, dan ulasan mendalam s
 </div>
 
 ### 👥 User 
+- Informasi terkini seputar dunia otomotif <br>
+- Jawaban untuk pertanyaan yang mungkin ada di benak Anda <br>
+- Terdapat fitur komentar, sehingga otoblog dapat menjadi tempat berbagi pengalaman dan pengetahuan <br>
+- Tips perawatan kendaraan dari para ahli <br>
+- Ulasan mendalam tentang model kendaraan terbaru <br>
+
 <img width="1240" height="2867" alt="Screenshot_29-9-2026_193349_127 0 0 1" src="https://github.com/user-attachments/assets/88f13984-bb34-44a7-8cc0-8afcc48d3798" />
-- Informasi terkini seputar dunia otomotif
-- Jawaban untuk pertanyaan yang mungkin ada di benak Anda
-- Terdapat fitur komentar, sehingga otoblog dapat menjadi tempat berbagi pengalaman dan pengetahuan
-- Tips perawatan kendaraan dari para ahli
-- Ulasan mendalam tentang model kendaraan terbaru
 
 <br>
 
 ### 👤 Admin
+- Memantau akun para _blogger_ dan _user_  <br>
+- Memantau postingan yang terdapat pada platform <br>
+ 
 <img width="1240" height="1749" alt="Screenshot_29-9-2026_193435_127 0 0 1" src="https://github.com/user-attachments/assets/02cea3d1-6774-490d-8254-40b6c9df8c33" />
-
-- Memantau akun para _blogger_ dan _user_ 
-- Memantau postingan yang terdapat pada platform
 
 
 <br>
@@ -57,7 +58,7 @@ Website ini dapat diakses secara _local_. Pastikan prasyarat berikut telah terin
 #### 1. Instalasi <br>
 - Buka terminal Laragon (disarankan), atau terminal lainnya.
 - Arahkan ke folder yang akan Anda gunakan untuk menyimpan folder, contoh: ```cd C:\laragon\www```
-- Jalankan perintah <i>clone</i>: ```git clone https://github.com/GrandJ6/PROJECT_PKL <br>```
+- Jalankan perintah <i>clone</i>: ```git clone https://github.com/Makheswara-1606/blogmobil/``` <br>
 
 #### 2. _Run website:_ <br>
 Setelah proses _clone_ selesai, Anda dapat me-_running_ website tersebut dengan langkah berikut:
