@@ -15,7 +15,7 @@ Website ini menjadi wadah berbagi informasi terbaru, tips, dan ulasan mendalam s
 <img width="1240" height="2867" alt="Screenshot_29-9-2026_193349_127 0 0 1" src="https://github.com/user-attachments/assets/88f13984-bb34-44a7-8cc0-8afcc48d3798" />
 - Informasi terkini seputar dunia otomotif
 - Jawaban untuk pertanyaan yang mungkin ada di benak Anda
-- Tempat berbagi pengalaman dan pengetahuan
+- Terdapat fitur komentar, sehingga otoblog dapat menjadi tempat berbagi pengalaman dan pengetahuan
 - Tips perawatan kendaraan dari para ahli
 - Ulasan mendalam tentang model kendaraan terbaru
 
